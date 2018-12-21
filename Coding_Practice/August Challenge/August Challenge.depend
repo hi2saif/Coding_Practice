@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1502005270 source:d:\c++ programming\august challenge\main.cpp
+	<vector>
+
+1502015586 source:d:\c++ programming\august challenge\nthpermutation.cpp
+	<string>
+	<bits/stdc++.h>
+
+1503043494 source:d:\c++ programming\august challenge\average of two numbers.cpp
+
+1503041801 source:d:\c++ programming\august challenge\code2.cpp
+	<vector>
+
+1503043482 source:d:\c++ programming\august challenge\goldman.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

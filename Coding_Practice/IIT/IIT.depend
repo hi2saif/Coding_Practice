@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1514726774 source:d:\c++ programming\iit\main.cpp
+	<vector>
+
+1514801004 source:d:\c++ programming\iit\subarray-with-given-sum.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+
+1515090900 source:d:\c++ programming\iit\eqilibirium.cpp
+	<vector>
+
+1515151824 source:d:\c++ programming\iit\ltime55-nw1.cpp
+	<vector>
+
+1517137618 source:d:\c++ programming\iit\unordered_map.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+

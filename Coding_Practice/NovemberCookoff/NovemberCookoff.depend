@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1511114569 source:d:\c++ programming\novembercookoff\main.cpp
+	<vector>
+	<limits>
+
+1511119545 source:d:\c++ programming\novembercookoff\2nduestion.cpp
+	<iostream>
+	<vector>
+	<limits>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1515690676 source:d:\c++ programming\january2k18\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1515645561 source:d:\c++ programming\january2k18\1st.cpp
+	<iostream>
+	<vector>
+
+1515690672 source:d:\c++ programming\january2k18\string.cpp
+	<vector>
+	<bits/stdc++.h>
+	<algorithm>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1504541840 source:d:\c++ programming\codechef_sept\main.cpp
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+	<limits.h>
+
+1504382643 source:d:\c++ programming\codechef_sept\code2.cpp
+
+1505428954 source:d:\c++ programming\codechef_sept\code3.cpp
+
+1505498459 source:d:\c++ programming\codechef_sept\test.cpp
+	<iostream>
+	<vector>
+

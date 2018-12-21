@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1497713209 source:d:\c++ programming\bad_engineer\2d vector.cpp
+	<vector>
+
+1497086927 source:d:\c++ programming\bad_engineer\30daysofcode_day6.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1497783705 source:d:\c++ programming\bad_engineer\addingtwobitnumbers.cpp
+
+1496399294 source:d:\c++ programming\bad_engineer\anagrams.cpp
+	<iostream>
+	<math.h>
+
+1497178713 source:d:\c++ programming\bad_engineer\binary strings.cpp
+
+1497720885 source:d:\c++ programming\bad_engineer\booleanmatrixproblem_codechef.cpp
+	<vector>
+
+1497086570 source:d:\c++ programming\bad_engineer\codechef june challenge q1.cpp
+	<iostream>
+
+1497173069 source:d:\c++ programming\bad_engineer\codechef june challenge q2.cpp
+
+1497173079 source:d:\c++ programming\bad_engineer\codechef june challenge q3.cpp
+
+1497352117 source:d:\c++ programming\bad_engineer\comparethetriplets.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<math.h>
+
+1498480392 source:d:\c++ programming\bad_engineer\count of only repeated element in a sorted array of consecutive elements.cpp
+	<vector>
+
+1497089770 source:d:\c++ programming\bad_engineer\counting_1s.cpp
+
+1496343916 source:d:\c++ programming\bad_engineer\finding all the prime numbers.cpp
+	<iostream>
+	<stdio.h>
+
+1497949007 source:d:\c++ programming\bad_engineer\geeksequalstoproduct.cpp
+	<algorithm>
+
+1497948949 source:d:\c++ programming\bad_engineer\geekskeypair.cpp
+	<algorithm>
+
+1496412027 source:d:\c++ programming\bad_engineer\hackerrank_ctci-making-anagrams.cpp
+	<string.h>
+	<iostream>
+	<cmath>
+
+1497703286 source:d:\c++ programming\bad_engineer\hackerrank_patterncount.cpp
+	<vector>
+	<string>
+
+1497699133 source:d:\c++ programming\bad_engineer\hackerrank_timeconversion.cpp
+	<vector>
+	<string>
+
+1498494635 source:d:\c++ programming\bad_engineer\kadanealgo.cpp
+	<vector>
+	<stdio.h>
+	<algorithm>
+
+1499358091 source:d:\c++ programming\bad_engineer\kadaneproduct.cpp
+	<vector>
+
+1499416060 source:d:\c++ programming\bad_engineer\leftviewof tree.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1501660864 source:d:\c++ programming\bad_engineer\main.cpp
+
+1499348629 source:d:\c++ programming\bad_engineer\majority element.cpp
+
+1499358033 source:d:\c++ programming\bad_engineer\next permutation.cpp
+	<algorithm>
+
+1496413479 source:d:\c++ programming\bad_engineer\next permutation_without function.cpp
+
+1501416827 source:d:\c++ programming\bad_engineer\next-larger-element.cpp
+	<algorithm>
+	<vector>
+	<stack>
+
+1499418657 source:d:\c++ programming\bad_engineer\non repeating character.cpp
+	<iostream>
+
+1497096117 source:d:\c++ programming\bad_engineer\postfix.cpp
+	<stack>
+
+1498488212 source:d:\c++ programming\bad_engineer\remainderlong.cpp
+	<vector>
+
+1498482445 source:d:\c++ programming\bad_engineer\reversingthebits.cpp
+	<vector>
+	<math.h>
+
+1499422681 source:d:\c++ programming\bad_engineer\search-in-a-rotated-array.cpp
+	<vector>
+
+1497091547 source:d:\c++ programming\bad_engineer\sieve of erathonesis.cpp
+	<iostream>
+	<math.h>
+
+1496406153 source:d:\c++ programming\bad_engineer\sort in stl.cpp
+	<iostream>
+
+1497776721 source:d:\c++ programming\bad_engineer\spoj_first problem.cpp
+	<cmath>
+	<stdio.h>
+	<sstream>
+
+1501344060 source:d:\c++ programming\bad_engineer\strings.cpp
+	<vector>
+	<algorithm>
+	<math.h>
+
+1497634299 source:d:\c++ programming\bad_engineer\subarray with given sum.cpp
+	<vector>
+
+1497892175 source:d:\c++ programming\bad_engineer\traversalzigzag.cpp
+	<stack>
+	<stdio.h>
+	<bits/stdc++.h>
+
+1501660759 source:d:\c++ programming\bad_engineer\vectors.cpp
+	<vector>
+
+1499497815 source:d:\c++ programming\bad_engineer\balanced.cpp
+	<stack>
+
+1499595515 source:d:\c++ programming\bad_engineer\delete-n-nodes-after-m-nodes-of-a-linked-list.cpp
+
+1501660583 source:d:\c++ programming\bad_engineer\reverse a string.cpp
+	<stack>
+	<algorithm>
+	<math.h>
+
+1499599363 source:d:\c++ programming\bad_engineer\reverse-a-linked-list-in-groups-of-given-size.cpp
+
+1501660640 source:d:\c++ programming\bad_engineer\string rotated by two places.c
+
+1501665038 source:d:\c++ programming\bad_engineer\string rotated by two places.cpp
+
+1504356966 source:d:\c++ programming\bad_engineer\fur points of swaure.cpp
+	<math.h>
+

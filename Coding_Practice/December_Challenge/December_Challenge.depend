@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1514142692 source:d:\c++ programming\december_challenge\main.cpp
+	<vector>
+
+1514298661 source:d:\c++ programming\all_palindromic_partitin.cpp
+	<vector>
+	<iostream>
+	<iomanip>
+
+1514182419 source:d:\c++ programming\december_challenge\kgadms.cpp
+	<iostream>
+	<vector>
+
+1514298301 source:d:\c++ programming\sample.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<bits/stdc++.h>
+

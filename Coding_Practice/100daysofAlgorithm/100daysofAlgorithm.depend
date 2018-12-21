@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1497785212 source:d:\c++ programming\100daysofalgorithm\day1towerofhanoi.cpp
+	<iostream>
+
+1497785273 source:d:\c++ programming\100daysofalgorithm\day3nextpermutation.cpp
+	<iostream>
+	<algorithm>
+
+1497785316 source:d:\c++ programming\100daysofalgorithm\day4counting1bit.cpp
+
+1497785362 source:d:\c++ programming\100daysofalgorithm\day5sieveoferathonesis.cpp
+	<iostream>
+	<math.h>
+
+1497785392 source:d:\c++ programming\100daysofalgorithm\day6postfixnotation.cpp
+	<stack>
+
+1497785432 source:d:\c++ programming\100daysofalgorithm\day7addingtwobinarynumbers.cpp
+
+1497948976 source:d:\c++ programming\100daysofalgorithm\day8bst.cpp
+	<iostream>
+
+1497949046 source:d:\c++ programming\100daysofalgorithm\main.cpp
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1499502031 source:d:\c++ programming\codechef_july_challenge\code 1.cpp
+	<string>
+	<cstring>
+
+1500393244 source:d:\c++ programming\codechef_july_challenge\code2.cpp
+	<iostream>
+
+1501343513 source:d:\c++ programming\codechef_july_challenge\code3.cpp
+	<stdio.h>
+
+1500388791 source:d:\c++ programming\codechef_july_challenge\code4.cpp
+	<tuple>
+	<algorithm>
+	<vector>
+	<string.h>
+
+1501392381 source:d:\c++ programming\codechef_july_challenge\lunch_code.cpp
+	<stdio.h>
+	<vector>
+	<sstream>
+
+1501393006 source:d:\c++ programming\codechef_july_challenge\lunch_code2.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<sstream>
+

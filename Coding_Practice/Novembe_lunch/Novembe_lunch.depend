@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511623177 source:d:\c++ programming\novembe_lunch\main.cpp
+	<iostream>
+	<vector>
+	<numeric>
+

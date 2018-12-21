@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="bad_engineer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/bad_engineer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/bad_engineer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="2d vector.cpp" />
+		<Unit filename="30daysofcode_day6.cpp" />
+		<Unit filename="Addingtwobitnumbers.cpp" />
+		<Unit filename="Anagrams.cpp" />
+		<Unit filename="Binary Strings.cpp" />
+		<Unit filename="BooleanMatrixProblem_codechef.cpp" />
+		<Unit filename="Codechef June challenge Q1.cpp" />
+		<Unit filename="Codechef June challenge Q2.cpp" />
+		<Unit filename="Codechef June challenge Q3.cpp" />
+		<Unit filename="Comparethetriplets.cpp" />
+		<Unit filename="Count of only repeated element in a sorted array of consecutive elements.cpp" />
+		<Unit filename="Counting_1s.cpp" />
+		<Unit filename="Finding all the prime numbers.cpp" />
+		<Unit filename="Fur points of swaure.cpp" />
+		<Unit filename="GEEKSequalstoproduct.cpp" />
+		<Unit filename="Hackerrank_PatternCount.cpp" />
+		<Unit filename="Hackerrank_ctci-making-anagrams.cpp" />
+		<Unit filename="KadaneAlgo.cpp" />
+		<Unit filename="KadaneProduct.cpp" />
+		<Unit filename="LeftViewof Tree.cpp" />
+		<Unit filename="Majority element.cpp" />
+		<Unit filename="NEXT permutation.cpp" />
+		<Unit filename="NEXT permutation_without function.cpp" />
+		<Unit filename="Non repeating character.cpp" />
+		<Unit filename="RemainderLong.cpp" />
+		<Unit filename="Reversingthebits.cpp" />
+		<Unit filename="SPOJ_First Problem.cpp" />
+		<Unit filename="Sieve of erathonesis.cpp" />
+		<Unit filename="Sort in STL.cpp" />
+		<Unit filename="String rotated by two places.cpp" />
+		<Unit filename="Subarray with given sum.cpp" />
+		<Unit filename="TraversalZIGZAG.cpp" />
+		<Unit filename="Vectors.cpp" />
+		<Unit filename="balanced.cpp" />
+		<Unit filename="delete-n-nodes-after-m-nodes-of-a-linked-list.cpp" />
+		<Unit filename="geeksKEYPAIR.cpp" />
+		<Unit filename="hackerrank_timeconversion.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="next-larger-element.cpp" />
+		<Unit filename="postfix.cpp" />
+		<Unit filename="reverse a string.cpp" />
+		<Unit filename="reverse-a-linked-list-in-groups-of-given-size.cpp" />
+		<Unit filename="search-in-a-rotated-array.cpp" />
+		<Unit filename="strings.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

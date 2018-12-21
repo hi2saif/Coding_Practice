@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1510336424 source:d:\c++ programming\november_challenge\main.cpp
+
+1510337543 source:d:\c++ programming\november_challenge\clrl.cpp
+	<vector>
+	<limits>
+	<limits.h>
+
+1510579752 source:d:\c++ programming\november_challenge\perpalin.cpp
+	<iostream>
+	<vector>
+	<limits>
+	<limits.h>
+

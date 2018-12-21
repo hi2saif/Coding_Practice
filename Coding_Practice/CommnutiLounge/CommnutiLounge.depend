@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1497789796 source:d:\c++ programming\commnutilounge\main.cpp
+
+1497877515 source:d:\c++ programming\commnutilounge\practice_prime generator.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<vector>
+
+1497869682 source:d:\c++ programming\commnutilounge\modifiedsieve.cpp
+
+1497961361 source:d:\c++ programming\commnutilounge\leadgame.cpp
+	<vector>
+
+1498036085 source:d:\c++ programming\commnutilounge\[zco14001]_videogame.cpp
+	<vector>
+
+1498035001 source:d:\c++ programming\commnutilounge\matchedbrackets_zco12001.cpp
+	<stack>
+	<vector>
+
+1526538232 source:d:\c++ programming\commnutilounge\[voters] voters list.cpp
+	<vector>
+	<algorithm>
+
+1498068426 source:d:\c++ programming\commnutilounge\sortstl.cpp
+	<vector>
+	<algorithm>
+
+1526481582 source:d:\c++ programming\commnutilounge\zco15002.cpp
+	<vector>
+	<algorithm>
+
+1526538222 source:d:\c++ programming\commnutilounge\dutch_national_flag.cpp
+	<vector>
+	<algorithm>
+
+1527002685 source:d:\c++ programming\commnutilounge\zco12002.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1527406942 source:d:\c++ programming\commnutilounge\inoi1201.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
